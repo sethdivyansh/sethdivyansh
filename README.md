@@ -6,15 +6,21 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/divyansh-seth/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="divyanshseth08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  
+  <a href="mailto:divyanshseth08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://www.instagram.com/sethdivyansh08/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://codeforces.com/profile/coding_ninja01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
   </a>
+  <a href="https://leetcode.com/divyansh_seth08/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+  </a>
+  
 </div>
+
 
 ###
 
