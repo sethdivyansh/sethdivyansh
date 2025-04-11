@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sethdivyansh.sethdivyansh&"  />
+  <img src="https://profile-counter.glitch.me/sethdivyansh/count.svg?"  />
 </div>
 
 ###
@@ -91,9 +91,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sethdivyansh/count.svg?"  />
-</div>
 
 ###
