@@ -99,3 +99,14 @@
 ###
 
 ###
+
+## 📈 Coding Profiles
+<span>
+<a href="https://codeforces.com/profile/coding_ninja01">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=coding_ninja01&theme=github_dark&force_username=true&border_color=404040" alt="Divyansh Codeforces Stats"/>
+</a>
+<!-- <a href="https://leetcode.com/u/3o12/">
+<img height="316" src="https://leetcard.jacoblin.cool/3o12?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/3o12/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="3o12 Leetcode Stats"/> -->
+</a>
+</a>
+</span>
